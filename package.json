@@ -1,0 +1,14 @@
+{
+  "name": "game-vfx-library",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    "./spells": "./spells.js",
+    "./sparks": "./spark-system.js"
+  },
+  "peerDependencies": {
+    "three": "0.186.1",
+    "three.quarks": "0.17.1"
+  }
+}

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>星铸 · 游戏特效试验场</title>
+<style>
+:root{color-scheme:dark;font:16px system-ui,sans-serif;background:#090e19;color:#edf3fa}
+*{box-sizing:border-box}
+body{margin:0}
+main{width:min(1120px,calc(100% - 32px));margin:36px auto}
+header,footer,.controls{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+a{color:#96e0ff}
+.brand{color:#9bdccf;font-size:.8rem;letter-spacing:.22em}
+h1{font-size:clamp(2rem,6vw,4rem);margin:12px 0 4px;font-weight:650}
+p{color:#adbbcf;margin:8px 0 20px}
+.stage{position:relative;overflow:hidden;border:1px solid #334558;border-radius:18px;background:#0b1424}
+canvas{display:block;width:100%;height:clamp(300px,55vw,520px);touch-action:manipulation;cursor:crosshair}
+.label{position:absolute;top:18px;left:20px;pointer-events:none;color:#c1d7ea;font-size:.82rem;letter-spacing:.15em}
+.controls{margin:16px 0 22px}
+.presets,.actions{display:flex;gap:8px;flex-wrap:wrap}
+button{border:1px solid #405568;border-radius:9px;padding:9px 13px;background:#151f31;color:inherit;font:inherit;cursor:pointer}
+button[aria-pressed=true],.cast{background:#a0ead8;color:#10231f;border-color:#a0ead8}
+:focus-visible{outline:2px solid #9bddff;outline-offset:3px}
+footer{color:#a4b5ca;font-size:.85rem}
+@media(max-width:540px){main{margin:22px auto}.controls{align-items:flex-start;flex-direction:column}button{padding:8px 11px}}
+</style>
+<main>
+  <header><span class="brand">GAME VFX LIBRARY</span><a href="https://github.com/shixi-11/game-vfx-library">查看源码</a></header>
+  <h1>星铸试验场</h1>
+  <p>选择特效，点击画布定位施放，或按空格在中心重播。</p>
+  <div class="stage">
+    <canvas id="stage" aria-label="法术效果预览"></canvas>
+    <span class="label" id="effect-name" aria-live="polite"></span>
+  </div>
+  <div class="controls">
+    <div class="presets" id="presets" role="group" aria-label="选择特效"></div>
+    <div class="actions"><button class="cast" id="cast">施放</button><button id="loop" aria-pressed="false">自动演示</button></div>
+  </div>
+  <footer><span>光之十一</span><a href="./LICENSE">演示源码许可</a></footer>
+</main>
+<script src="./preview.js" defer></script>
+</html>

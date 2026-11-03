@@ -1,0 +1,29 @@
+{
+  "id": "kenney-lights",
+  "name": "灯光与法术遮罩",
+  "provider": "Kenney",
+  "base": "03_贴图素材/Kenney/light-masks",
+  "source": "https://kenney.nl/assets/light-masks",
+  "download": "https://kenney.nl/media/pages/assets/light-masks/6530e254f9-1775631687/kenney_light-masks-1.0.zip",
+  "archive": "light-masks",
+  "version": "1.0",
+  "kind": "texture",
+  "tags": [
+    "光照",
+    "遮罩",
+    "光束",
+    "法阵",
+    "light",
+    "mask",
+    "cookie"
+  ],
+  "notes": "仅取Transparent目录；不重复收录默认底色、反相和推广快捷方式。",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "downloaded": "2026-11-04",
+  "download_sha256": "e1238694d7e49046e42d67f2975be0217861c7cc9bc358383a8e5e583645004f",
+  "license_file": "03_贴图素材/Kenney/light-masks/LICENSE.txt",
+  "file_count": 152,
+  "png_count": 152,
+  "effect_project_count": 0
+}

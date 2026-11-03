@@ -1,0 +1,3 @@
+minimumReleaseAgeExclude:
+  - '@colyseus/core@0.18.22'
+  - '@react-three/postprocessing@3.2.2'

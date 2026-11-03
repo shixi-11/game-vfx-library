@@ -1,0 +1,27 @@
+{
+  "id": "oga-beams",
+  "name": "彩色光束基础图",
+  "provider": "OpenGameArt / Rawdanitsu",
+  "base": "03_贴图素材/OpenGameArt/lasers-and-beams",
+  "source": "https://opengameart.org/content/lasers-and-beams",
+  "download": "https://opengameart.org/sites/default/files/beams.png",
+  "archive": "oga-beams",
+  "version": "2013-09-11; downloaded 2026-11-04",
+  "kind": "texture-sheet",
+  "tags": [
+    "光束",
+    "射线",
+    "剑气",
+    "beam",
+    "laser"
+  ],
+  "notes": "一张原生透明素材图，包含多色光束；不是逐帧动画，不假定分格尺寸。",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "downloaded": "2026-11-04",
+  "download_sha256": "0628fe6f326efbf97d6637b76913c77a1f6247a7f815bce2307744fcd62a82b0",
+  "license_file": "03_贴图素材/OpenGameArt/lasers-and-beams/LICENSE.txt",
+  "file_count": 1,
+  "png_count": 1,
+  "effect_project_count": 0
+}

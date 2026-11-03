@@ -1,0 +1,21 @@
+{
+  "id": "godot-procedural-magic-circle",
+  "name": "程序化法阵",
+  "provider": "Godot Shaders / pixeldreamerstudio",
+  "base": "01_开源特效/GodotShaders/procedural-magic-circle",
+  "source": "https://godotshaders.com/shader/procedural-magic-circle/",
+  "license": "MIT",
+  "license_file": "01_开源特效/GodotShaders/procedural-magic-circle/LICENSE.txt",
+  "downloaded": "2026-11-04",
+  "kind": "godot-shader",
+  "tags": [
+    "法阵",
+    "圆环",
+    "施法",
+    "magic circle"
+  ],
+  "notes": "只保存作者发布的MIT代码；Godot原生着色器，未安装引擎或编译验证，不能原样导入Three.js。未下载预览图、视频或付费商店内容。",
+  "file_count": 1,
+  "png_count": 0,
+  "effect_project_count": 0
+}

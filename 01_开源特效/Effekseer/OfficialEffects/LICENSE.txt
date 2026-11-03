@@ -1,0 +1,10 @@
+CC0 1.0 Universal
+
+Source: https://effekseer.github.io/en/contributes/Effekseer01/index.html
+Author / contributor: Effekseer
+License declaration checked: 2026-11-04
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Official contributed-effects page identifies the current sample area as CC0; old-license samples are a separate section.
+Declaration: https://effekseer.github.io/en/contribute.html

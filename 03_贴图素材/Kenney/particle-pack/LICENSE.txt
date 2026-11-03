@@ -1,0 +1,8 @@
+CC0 1.0 Universal
+
+Source: https://kenney.nl/assets/particle-pack
+Author / contributor: Kenney
+License declaration checked: 2026-11-04
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+

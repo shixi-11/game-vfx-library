@@ -1,0 +1,29 @@
+{
+  "id": "kenney-particles",
+  "name": "粒子基础贴图",
+  "provider": "Kenney",
+  "base": "03_贴图素材/Kenney/particle-pack",
+  "source": "https://kenney.nl/assets/particle-pack",
+  "download": "https://kenney.nl/media/pages/assets/particle-pack/f8fe0f8cb8-1677578741/kenney_particle-pack.zip",
+  "archive": "particle-pack",
+  "version": "1.0",
+  "kind": "texture",
+  "tags": [
+    "粒子",
+    "火花",
+    "烟雾",
+    "圆环",
+    "particle",
+    "spark",
+    "smoke"
+  ],
+  "notes": "仅取80张原生透明PNG；黑底、旋转变体及Unity演示不重复收录。",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "downloaded": "2026-11-04",
+  "download_sha256": "b631d4b07f7002549fdcf155f01141ad482f79f3440e4e301eed49ce5f1d8958",
+  "license_file": "03_贴图素材/Kenney/particle-pack/LICENSE.txt",
+  "file_count": 80,
+  "png_count": 80,
+  "effect_project_count": 0
+}

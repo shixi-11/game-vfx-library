@@ -1,0 +1,32 @@
+{
+  "id": "oga-spells",
+  "name": "二维法术透明序列",
+  "provider": "OpenGameArt / Mikodrak (Martin Jelinek)",
+  "base": "01_开源特效/OpenGameArt/2d-spell-effects",
+  "source": "https://opengameart.org/content/2d-spell-effects",
+  "download": "https://lpc.opengameart.org/sites/default/files/FX.zip",
+  "archive": "oga-spells",
+  "version": "2013-05-14; archive downloaded 2026-11-04",
+  "kind": "sequence",
+  "tags": [
+    "法术",
+    "火球",
+    "剑火",
+    "雷电",
+    "爆炸",
+    "雨",
+    "spell",
+    "fireball",
+    "lightning",
+    "rain"
+  ],
+  "notes": "保留10组透明PNG序列和原作者说明；不重复保存GIF预览。原包未给逐帧时长，不能凭文件名宣称原始帧率。",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "downloaded": "2026-11-04",
+  "download_sha256": "8d0c09487ab0337867e90333e9c26e455760b31414bf503bedcde94b0cddbc30",
+  "license_file": "01_开源特效/OpenGameArt/2d-spell-effects/LICENSE.txt",
+  "file_count": 232,
+  "png_count": 231,
+  "effect_project_count": 0
+}

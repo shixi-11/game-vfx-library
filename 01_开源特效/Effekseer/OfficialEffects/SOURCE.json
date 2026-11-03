@@ -1,0 +1,31 @@
+{
+  "id": "effekseer-official",
+  "name": "Effekseer官方基础特效",
+  "provider": "Effekseer",
+  "base": "01_开源特效/Effekseer/OfficialEffects",
+  "source": "https://effekseer.github.io/en/contributes/Effekseer01/index.html",
+  "download": "https://effekseer.github.io/contributes/Effekseer01.zip",
+  "archive": "effekseer-official",
+  "version": "undated official package; downloaded 2026-11-04",
+  "kind": "effekseer-project",
+  "tags": [
+    "拖尾",
+    "剑气",
+    "光束",
+    "扭曲",
+    "圆环",
+    "trail",
+    "ribbon",
+    "laser",
+    "ring"
+  ],
+  "notes": "下载包实际有15个efkproj；官网详情页写13项，按实物登记。保留相对纹理和模型依赖。未安装或启动Effekseer，项目尚未渲染；需按目标游戏导出或接入。",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "downloaded": "2026-11-04",
+  "download_sha256": "1557697fcaeb3eaa89d62d7fc884e838513a9bd4e18a1aeaf16209ff6e0bd751",
+  "license_file": "01_开源特效/Effekseer/OfficialEffects/LICENSE.txt",
+  "file_count": 38,
+  "png_count": 21,
+  "effect_project_count": 15
+}

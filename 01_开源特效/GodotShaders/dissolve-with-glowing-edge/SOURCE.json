@@ -1,0 +1,21 @@
+{
+  "id": "godot-dissolve-with-glowing-edge",
+  "name": "发光边缘溶解",
+  "provider": "Godot Shaders / pixeldreamerstudio",
+  "base": "01_开源特效/GodotShaders/dissolve-with-glowing-edge",
+  "source": "https://godotshaders.com/shader/dissolve-with-glowing-edge/",
+  "license": "MIT",
+  "license_file": "01_开源特效/GodotShaders/dissolve-with-glowing-edge/LICENSE.txt",
+  "downloaded": "2026-11-04",
+  "kind": "godot-shader",
+  "tags": [
+    "溶解",
+    "消散",
+    "发光",
+    "dissolve"
+  ],
+  "notes": "只保存作者发布的MIT代码；Godot原生着色器，未安装引擎或编译验证，不能原样导入Three.js。未下载预览图、视频或付费商店内容。",
+  "file_count": 1,
+  "png_count": 0,
+  "effect_project_count": 0
+}

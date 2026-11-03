@@ -1,0 +1,30 @@
+{
+  "id": "kenney-smoke",
+  "name": "烟雾与爆发贴图",
+  "provider": "Kenney",
+  "base": "03_贴图素材/Kenney/smoke-particles",
+  "source": "https://kenney.nl/assets/smoke-particles",
+  "download": "https://kenney.nl/media/pages/assets/smoke-particles/23249a0d35-1677695171/kenney_smoke-particles.zip",
+  "archive": "smoke-particles",
+  "version": "1.0",
+  "kind": "texture",
+  "tags": [
+    "烟雾",
+    "黑烟",
+    "尘雾",
+    "爆炸",
+    "闪光",
+    "smoke",
+    "explosion",
+    "flash"
+  ],
+  "notes": "选黑烟、白烟、爆炸、闪光四类；未收录Fart类、预览和演示。",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "downloaded": "2026-11-04",
+  "download_sha256": "97a1d09c66e4fd6c247c8ea87f84c0cc59caaeceae19414c995afb1616a1e1c9",
+  "license_file": "03_贴图素材/Kenney/smoke-particles/LICENSE.txt",
+  "file_count": 68,
+  "png_count": 68,
+  "effect_project_count": 0
+}
